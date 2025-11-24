@@ -75,7 +75,8 @@ return len(nums) > len(set(nums))
   - If the length of the original list is **greater** than the length of the set → there must be duplicates.
   - Otherwise → no duplicates.
 **Note:** Both solutions do exactly the same thing. This is just a slightly different way to write the condition.
-**Execution Stats**
+  
+**Execution Stats**  
 | Metric  | Value                |
 |:-------|:-------------------:|
 | Runtime | 14 ms | Beats 58.45%   |
